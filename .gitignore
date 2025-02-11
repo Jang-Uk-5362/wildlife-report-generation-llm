@@ -1,0 +1,5 @@
+venv/
+
+LLM.env
+
+__pycache__/
